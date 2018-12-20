@@ -39,7 +39,7 @@ Index
 ---
 # 결과 및 시연 동영상
 최종 디자인  
-![최종 디자인](/assets/images/final.png)
+![최종 디자인](/assets/images/final.png)  
 크리스마스 시즌을 맞아 루돌프로 변신한 4torm의 모습이다.
   
 [4torm 시연 동영상](https://www.youtube.com/channel/UCx8gNLe9X591gEYzW32QSjg?view_as=subscriber/ "4torm 시연 동영상").
