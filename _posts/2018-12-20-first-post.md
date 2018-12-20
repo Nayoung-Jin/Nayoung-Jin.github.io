@@ -9,6 +9,9 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 ---
 #Mediator Formats and CSS features
 
+This is an H2
+-------------
+
 title: "Welcome to Jekyll!"
 date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
