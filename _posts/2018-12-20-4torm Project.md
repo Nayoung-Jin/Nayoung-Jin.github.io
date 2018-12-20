@@ -25,7 +25,7 @@ Index
 라인 컬러를 감지하는 센서를 부착하였다.  
 ![뒤쪽 컵 색깔 감지를 위한 컬러 센서 부착](/assets/images/backsensor.png)  
 컵 색깔을 감지하는 센세를 부착하였다.  
-![초기 고양이 디자인](/assets/images/cat.JPG)  
+![초기 고양이 디자인](/assets/images/cat.png)  
 초기의 고양이 버젼이다.  
 
 
