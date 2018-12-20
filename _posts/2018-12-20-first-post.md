@@ -44,8 +44,8 @@ This is an [example link](http://example.com/ "With a Title").
 > - Plum
 
 
-{%highlight code%}
-#pragma config(Sensor, S1, c1, sensorEV3_Color)//cup
+#Code
+>#pragma config(Sensor, S1, c1, sensorEV3_Color)//cup
 #pragma config(Sensor, S2, c2, sensorEV3_Color)//right
 #pragma config(Sensor, S3, c3, sensorEV3_Color)//left
 #pragma config(Sensor, S4, ts, sensorEV3_Touch)//touch
