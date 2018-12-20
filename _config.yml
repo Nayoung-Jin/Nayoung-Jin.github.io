@@ -6,9 +6,8 @@ gems:
 
 # Site settings
 title: "Nayoung's Github"
-description: "Nayoung's projects"
-> # this means to ignore newlines until "email:"
-   >
+description: # this means to ignore newlines until "email:"
+   Nayoung's Project
 
 email: a-mail@mail.mail
 #blog logo
