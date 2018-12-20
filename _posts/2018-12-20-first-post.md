@@ -50,12 +50,12 @@ This is an [example link](http://example.com/ "With a Title").
 
 
 #Code
->#pragma config(Sensor, S1, c1, sensorEV3_Color)//cup
-#pragma config(Sensor, S2, c2, sensorEV3_Color)//right
-#pragma config(Sensor, S3, c3, sensorEV3_Color)//left
-#pragma config(Sensor, S4, ts, sensorEV3_Touch)//touch
-#pragma config(Motor, motorC, lm, tmotorEV3_Large, PIDControl, encoder)
-#pragma config(Motor, motorB, rm, tmotorEV3_Large, PIDControl, encoder)
+>#pragma config(Sensor, S1, c1, sensorEV3_Color)//cup color sensor</br>
+#pragma config(Sensor, S2, c2, sensorEV3_Color)//color sensor of right motor </br>
+#pragma config(Sensor, S3, c3, sensorEV3_Color)//color sensor of left motor </br>
+#pragma config(Sensor, S4, ts, sensorEV3_Touch)//touch sensor </br>
+#pragma config(Motor, motorC, lm, tmotorEV3_Large, PIDControl, encoder) </br>
+#pragma config(Motor, motorB, rm, tmotorEV3_Large, PIDControl, encoder) </br>
 
 
 
